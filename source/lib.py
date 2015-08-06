@@ -1,5 +1,6 @@
 import re
 import pickle
+from collections import Counter
 
 #=========File Interaction=========#
 def save(obj, file):
@@ -16,7 +17,7 @@ def load(file):
 #=========Parse text files into sentences=========#
 #takes filename as input, returns list of strings
 def parseTxt(file):
-    f = open(file, encoding="utf-8")
+    f = open(file, 'r')
     string = f.read()
     f.close()
     patterns = [re.compile('\\n'), re.compile('[^ \w\s\.\?!-]'), re.compile('[A-Z]\w*[.,]?\s(?:(?!Mr|Ms|Dr|Jr|Sr|[.?!]).|Jr\.|Sr\.|Mr\.|Ms\.|Dr\.)*(?:(?!Mr|Ms|Dr|[.?!]).|Mr\.|Ms\.|Dr\.)*[\"!?:.]')]
@@ -150,3 +151,30 @@ def manualSelect():
 def get():
     print(">> ", end="")
     return input("")
+
+def mode(set):
+    data = Counter(set)
+    n = data.most_common(1)
+    return n[0][0]
+
+def topThree(set):
+    data = Counter(set)
+    return data.most_common(3)
+
+def avg(set):
+    return sum(set) / len(set)
+
+def variance(set):
+    diffs = []
+    setAvg = avg(set)
+    for n in set:
+        val = (setAvg - n) ** 2
+        diffs.append(val)
+    return avg(diffs)
+
+def sdev(set):
+    return variance(set) ** 0.5
+
+
+        
+

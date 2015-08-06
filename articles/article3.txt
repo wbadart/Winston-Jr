@@ -1,0 +1,179 @@
+This week archaeologists, wildlife ecologists and other scientists on Twitter shared embarrassing moments from their field research using the hashtag #FieldWorkFail. Among the confessions were tales of elephants crushing trap cameras, paleontologists accidentally swallowing fossils, and one case where a researcher unintentionally glued herself to a crocodile.
+
+Not all fieldwork mistakes are as amusing, but even the unfunny ones can be fortuitous. For Carlos Jared, a biologist from the Butantan Institute in São Paulo, Brazil, a mishap in the desert led to a new discovery.
+
+Dr. Jared had been studying tree frogs in the cactus and thorn forests of northeastern Brazil for decades. But on one particular day he wanted to get his hands on Corythomantis greeningi, a frog with a helmet-shaped head covered in tiny spines.
+
+“During collection, very soon I realized that when grasping them with the palm of the hand, they intensely move the head in a characteristic butting behavior,” Dr. Jared said in an email. Later he felt a sharp pain radiating through his arm, which he described as being far worse than the worst wasp sting imaginable. Dr. Jared was at least four hours away from any hospital, so he decided to tough it out in the desert. Five hours later, the excruciating pain subsided on its own.
+
+It wasn’t until he examined the frogs under a microscope that he discovered that the spines on their upper lips were covered in poison glands. “It took me a long time to realize that the pain had a relationship with the intense and careless collection of these animals hitting the palm of my hands,” he said. When the frog head-butted him, it envenomed him too.
+
+Researchers already knew that the frog secretes toxins from its skin, but the poisoned spines on the head had not been documented before. Dr. Jared and his colleagues found that the same spiny and bony head occurs in another frog species, Aparasphenodon brunoi, which lives in the Atlantic rain forests of South America. They decided to test how toxic the two frogs were in the lab by injecting the poisons into rodents. To their surprise, they found that in mice, A. brunoi's secretions were 25 times as lethal as a Brazilian pit viper's venom, and those of C. greeningi, the one that pricked Dr. Jared, were twice as lethal.
+
+Although Dr. Jared did not tweet his fieldwork faux pas, he did mention it along with his findings in a paper published Thursday in the journal Current Biology.
+
+This is the first time anyone has suggested that a frog can be venomous, according to Edmund Brodie, a biologist from Utah State University and co-author on the paper. Hundreds of species of frogs are poisonous, like the Amazon’s brightly colored poison dart frog. But to be classified as venomous, a creature must have a method by which it can inflict that poison into a victim. For these two frogs, flailing the head suffices.
+
+“It all started because Carlos was out collecting them and got jabbed in the hand by one of them,” Dr. Brodie said. “This is how one makes those ‘Eureka’ discoveries!” 
+
+Last year, scientists launched a trial of an experimental vaccine against Ebola in Guinea. On Friday, they reported great news: The vaccine works well, providing remarkable protection just 10 days after injection.
+
+“We have to stop and celebrate the fact that an innovative trial design was able to come up, in the middle of an emergency, with pretty strong results,” said Dr. Seth Berkley, the chief executive officer of Gavi, an alliance of public and private organizations that provides greater access to vaccines in developing countries. “Let’s start with that.”
+
+But let’s not end with that.
+
+Dr. Berkley and other vaccine experts note a grim irony. Scientists showed that this vaccine was effective in monkeys a decade ago. Thereafter, the vaccine lingered in scientific limbo.
+
+“We should have had an Ebola vaccine at least two or three years ago,” said Dr. Peter J. Hotez, the president of the Sabin Vaccine Institute and a science envoy at the State Department.
+
+Only after the West African outbreak exploded last year did fresh urgency push experimental Ebola vaccines into trials. By the time the positive results were published, the outbreak was subsiding.
+
+“After considerable rush and expense, and after thousands of people have died, you now have a vaccine that appears to be pretty damn good,” said Dr. Stanley A. Plotkin, an emeritus professor of pediatrics at the University of Pennsylvania and a member of the board of the Foundation for Vaccine Research.
+
+We can only guess how many lives might have been saved if this vaccine had passed muster before the outbreak, rather than after.
+
+Now Dr. Hotez fears that history will repeat itself.
+
+Another infectious disease may explode before a promising vaccine is proved safe and effective. “Once again, the world will be caught flat-footed,” he said.
+
+Vaccines are one of the great triumphs of science, but the way that modern medicine functions makes it hard to develop new ones. “That model doesn’t work,” said Dr. Hotez. “It hasn’t worked for decades, and it was really brought home with Ebola.”
+
+To make a vaccine, scientists first design experimental forms to test on cells and animals. It may cost $25 million to perform these studies, said Dr. Plotkin. The cost of that basic research is typically covered by governments or philanthropies.
+
+Then researchers have to put vaccines through several rounds of trials in humans. In small initial studies, they evaluate its safety and figure out the right dose. In larger studies, they look more closely at its effectiveness and side effects.
+
+The cost of taking a vaccine all the way through this process is hundreds of millions of dollars, said Dr. Plotkin.
+
+Major pharmaceutical companies can afford to pay for the later stages of vaccine development, said Dr. Adel A.F. Mahmoud, the former president of Merck Vaccines and now a professor of molecular biology and public policy at Princeton.
+
+But drug companies are increasingly reluctant to take the risk. “The next step, nobody is touching,” he said.
+
+Part of the problem is that many vaccines offer only modest financial returns, compared with highly profitable drugs for diseases like cancer or heart disease.
+
+“If someone comes to me and says, ‘Give me $500 million to run a product that doesn’t have a market,’ I’m not sure that I can really justify it,” said Dr. Mahmoud. “You might do it once, but you’re not going to do it twice.”
+
+Ebola vaccines escaped developmental limbo only after the West African outbreak reached unprecedented proportions and governments began marshaling funds to support trials.
+
+“That’s too little too late,” said Dr. Hotez. He and other vaccine experts say we need a more sensible approach, pushing vaccines further through the pipeline before emergencies rather than in the middle of them.
+
+In a recent issue of The New England Journal of Medicine, Dr. Plotkin, Dr. Mahmoud and Jeremy Farrar, the director of the Wellcome Trust, issued a call for better ways to get vaccines through the pipeline more quickly. They proposed the creation of a global vaccine-development fund, supported by governments, pharmaceutical companies and philanthropies.
+
+The authors suggested seeding the fund with $2 billion. “It probably can cover maybe four, maybe five potential products,” said Dr. Mahmoud. “It can make a difference.”
+
+Dr. Mahmoud and other experts see a number of vaccines that could be pushed forward right now with the support of such a fund. Many say a top priority is MERS, a respiratory virus discovered in the Middle East in 2012.
+
+The MERS virus circulates among camels, but it can also spread from person to person in hospitals. While most cases have been reported in Saudi Arabia, a new outbreak flared up earlier this year in South Korea after a businessman returned home from the Middle East with an infection.
+
+Dr. Hotez warned that fighting in the Middle East could allow MERS to spread out of control. “With complete public health infrastructure breakdown in Yemen, that’s one that’s a risk of creating a very catastrophic epidemic,” he said.
+
+When it comes to vaccines, MERS is where Ebola was last year. “There are at least two good-looking candidates out there already,” said Dr. Plotkin.
+
+But these experimental vaccines have only yielded promising results in animals. Major pharmaceutical companies haven’t stepped forward to carry on the research in humans. Dr. Plotkin predicted that a vaccine fund would lead to a MERS trial in humans very quickly.
+
+Two billion dollars may sound like a lot of money to put into vaccines. But Dr. Mahmoud points out that nearly $8 billion has been spent coping with West Africa’s Ebola outbreak — not to mention more than 11,000 lives lost.
+
+“If you had a vaccine,” he said, “that total would have been far less.”
+
+If you dream of close encounters of the alien kind, this has been a hopeful summer.
+
+In July, on the 46th anniversary of the first moon landing, Yuri Milner, the Russian Internet entrepreneur and philanthropist, said he would spend $100 million over the next decade on the search for alien signals, known as SETI, giving the field a financial stability and access to telescopes it had never had. That same week, NASA announced the discovery of what might be the most Earthlike planet yet beyond the solar system, Kepler 452b, a mere 1,400 light-years from here.
+
+In a news conference accompanying Mr. Milner’s announcement, Geoffrey Marcy, a planet hunter from the University of California, Berkeley, noted that “the universe is apparently bulging at the seams with ingredients for biology.”
+
+He said he would bet Yuri Milner’s house, reportedly also worth $100 million, that there is at least microbial life out there.
+
+You might think the discovery of microbes on Mars or fish in the oceans of Jupiter’s moon Europa would have scientists dancing in the streets. And you would probably be right.
+Interactive Feature
+Kepler’s Tally of Planets
+
+NASA’s Kepler mission has discovered more than 1,000 confirmed planets orbiting distant stars.
+
+OPEN Interactive Feature
+
+But not everyone agrees that it would be such good news. For at least one prominent thinker, it would be a “crushing blow.”
+
+That would be Nick Bostrom, a philosopher at the University of Oxford and director of the Future of Humanity Institute there, one of the great pessimists of this or any other age.
+
+In an article published in Technology Review in 2008, Professor Bostrom declared that it would be a really bad sign for the future of humanity if we found even a microbe clinging to a rock on Mars. “Dead rocks and lifeless sands would lift my spirit,” he wrote.
+
+Why?
+
+It goes back to a lunch in 1950 in Los Alamos, N.M., the birthplace of the atomic bomb. The subject was flying saucers and interstellar travel. The physicist Enrico Fermi blurted out a question that has become famous among astronomers: “Where is everybody?”
+
+The fact that there was no evidence outside supermarket tabloids that aliens had ever visited Earth convinced Fermi that interstellar travel was impossible. It would simply take too long to get anywhere.
+
+The argument was expanded by scientists like Michael Hart and Frank Tipler, who concluded that extraterrestrial technological civilizations simply didn’t exist.
+
+The logic is simple. Imagine that one million years from now Earthlings launch a robot to Alpha Centauri, the closest star system to our own. It gets there in a few years, and a million years later sends off probes to two other star systems. A million years after that, each of those sends off two more probes. Even allowing for generous travel times, in 100 million years roughly a nonillion stars (1030) could be visited. The galaxy contains maybe 200 billion stars, so each could be visited more than a trillion times in this robot crisscrossing.
+
+The interstellar probe part of this is not so crazy, by the way. Serious people are already contemplating sending a probe to another star, using technology that could be achievable in the near future. See, for example, the Defense Advanced Research Projects Agency and its 100-Year Starship Study.
+
+There are billions of potentially habitable planets in the galaxy, moreover. If only a small fraction of these develop life and technology, that would be enough to turn the whole galaxy into Times Square.
+
+The Milky Way is 10 billion years old. So where are those aliens or their artifacts? We’ve found zilch. If life is so easy, someone from somewhere must have come calling by now. This is known as the Fermi paradox.
+Graphic
+Recipe for a Small Planet
+
+Astronomers have found a recipe for rocky, Earth-like planets orbiting other stars.
+
+OPEN Graphic
+
+There are many loopholes in this argument, including the possibility that we wouldn’t sufficiently recognize alien life if it camped in our front yards. The simplest explanation, Dr. Bostrom and others say, is that there are no other spacefaring civilizations.
+
+There must be something, he concludes, that either stops life from starting at all, or shuts it down before it can conquer the stars. He calls it the Great Filter.
+
+You can imagine all kinds of bottlenecks in the evolution of life and civilization — from the need for atoms to first combine into strands of RNA, the genetic molecule that plays Robin to DNA’s Batman, to nuclear war, climate change or a mishap of genetic engineering — that could constitute a Great Filter.
+
+The big question for Professor Bostrom is whether the Great Filter is in our past or our future, and for the answer he looks to the stars. If there is nothing else out there, then maybe we have survived whatever it is. As bizarre as it sounds, we are the first ones in the neighborhood to have run the cosmic obstacle course.
+
+If there is company out there, it means the Great Filter is ahead of us. We are doomed.
+
+This is a staggeringly existential piece of knowledge to have obtained at what seems to be a tender age as a species, based on a cursory examination of a sliver of our cosmic neighborhood. It is also a truly brave exercise of the power of human reason.
+
+Maybe too brave. But there is a precedent of sorts in an old riddle known as Olbers’ Paradox, after Heinrich Wilhelm Olbers, a 19th-century amateur astronomer who enunciated a problem that had bothered some astronomers since the 16th century: Why is the sky dark at night? In an infinite eternal universe, every line of sight would end on a star, the thinking went, and even dust clouds would glow as bright as day.
+
+Luminaries as disparate as the Scottish physicist Lord Kelvin and the writer Edgar Allan Poe suggested that the dark night sky was a clue to the fact that the universe is finite, at least in time, and had a beginning, a notion now cemented by the Big Bang.
+
+If Olbers saw the dawn of time, perhaps Fermi and Bostrom have seen the sunset. We should hardly be surprised. Nothing lasts forever. The fathers of SETI, Carl Sagan and Frank Drake, stressed that a key unknown element in their equations was the average lifetime of technological civilizations. Too short a lifetime would eliminate the possibility of overlapping civilizations. Forget about the mythical brotherhood of the galaxy. The Klingons left the building long ago.
+
+The best we could have hoped for was to be another evolutionary phase in the zigzag development of earthly life on the way to who knows what. But in a few billion years, the sun will die, and so will the earth, and our descendants — if they are still on it. The universe will not remember us or Shakespeare or Homer.
+
+We can’t really blame Professor Bostrom for that. But he has a history of disturbing thoughts. In 2003, he argued that we were probably all living in a computer simulation, something he said would be easy for “technologically mature” civilizations to do.
+
+What his and other sci-fi-style calculations have in common is that they are extrapolations, of the doubling of chip capacity decreed by Moore’s Law in the case of computer simulations, or the doubling of space probes over the eons. Believe them at your peril. Chips can’t get smaller forever. Untended machines far, far from home break or forget why they are there. Apple can’t keep doubling iPhone sales eternally.
+
+As the great science writer and biologist Lewis Thomas liked to say, we are an ignorant species. This is why we do the experiment.
+
+NASA told Congress on Wednesday that it will have to spend half a billion dollars to pay Russia to fly astronauts to the International Space Station.
+
+NASA Administrator Charles Bolden sent a letter to Congress saying the agency would need to pay $490 million to Russia for six seats on Soyuz rockets for U.S. astronauts to fly through 2017. That comes to nearly $82 million a seat, up from $71 million a seat.
+
+Bolden blamed Congress for needing the extra money for seats.
+
+In his letter, Bolden said that because Congress didn't add enough to the commercial space program, launches from U.S. soil had to be pushed back two years, requiring more Russian rides. NASA wanted the money to help private space companies Space X and Boeing pay for new rockets and capsules that would launch from the
+
+ Heat-trapping pollution from U.S. power plants hit a 27-year low in April, the Department of Energy announced Wednesday.
+
+A big factor was the long-term shift from coal to cleaner and cheaper natural gas, said Energy Department economist Allen McFarland. Outside experts also credit more renewable fuel use and energy efficiency.
+
+Carbon dioxide — from the burning of coal, oil and gas — is the chief greenhouse gas responsible for man-made global warming.
+
+"While good news for the environment, we certainly would not want to assume that this trend will continue and that we can simply relax," said John Reilly, co-director of MIT's Joint Program on the Science and Policy of Global Change.
+
+Electric power plants spewed 141 million tons of carbon dioxide in April, the lowest for any month since April 1988, according to Energy Department figures. The power plants are responsible for about one-third of the country's heat-trapping emissions.
+
+April emissions peaked at 192 million tons in 2008 and dropped by 26 percent in seven years.
+
+Carbon pollution from power plants hit their peak in August 2007 with 273 million tons; summer emissions are higher because air conditioning requires more power.
+
+In past years, experts said the U.S. reduction in carbon dioxide pollution was more a function of a sluggish economy, but McFarland said that's no longer the case.
+
+"You don't have a 27-year low because of an economic blip," McFarland said. "There are more things happening than that."
+
+The price of natural gas has dropped 39 percent in the past year, he said. Federal analysts predict that this year the amount of electricity from natural gas will increase 3 percent compared to last year while the power from coal will go down 10 percent.
+
+Those reductions were calculated before this week's announcements of new power plant rules. The new rules aim to cut carbon pollution from electricity generators another 20 percent from current levels by 2030.
+
+The pollution cuts in April are because efficiency has cut electricity demand and energy from non-hydropower renewable sources has more than doubled, said Princeton University professor Michael Oppenheimer.
+
+"A factor behind all these trends is that the writing is on the wall about the future of coal and thus the future of U.S. carbon dioxide emissions," Oppenheimer said in an email. "The regulatory noose is tightening and companies are anticipating a future with lower and lower dependence on fossil fuels and lower and lower carbon dioxide emissions."
