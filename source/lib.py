@@ -20,7 +20,7 @@ def parseTxt(file):
     string = f.read()
     f.close()
     patterns = [re.compile('\\n'), re.compile('[^ \w\s\.\?!-]'), re.compile('[A-Z]\w*[.,]?\s(?:(?!Mr|Ms|Dr|Jr|Sr|[.?!]).|Jr\.|Sr\.|Mr\.|Ms\.|Dr\.)*(?:(?!Mr|Ms|Dr|[.?!]).|Mr\.|Ms\.|Dr\.)*[\"!?:.]')]
-    string = re.sub(patterns[0], " ", strOrig)
+    string = re.sub(patterns[0], " ", string)
     string = re.sub(patterns[1], "", string)
     matches = re.findall(patterns[2], string)
     sentences = []
@@ -29,6 +29,8 @@ def parseTxt(file):
     return sentences
 
 #=========Class definitions=========#
+
+#============SENTENCE CLASS============#
 class Sentence(object):
     def __init__(self, string, dict):
         self.string = string
@@ -36,17 +38,25 @@ class Sentence(object):
         if string[-1] in '?.!':
             string = string[0:-1]
         i=0
-        for w in re.split('\W+', string):
-            words.append(dict.add(w, i))
+        sentAr = re.split('\W+', string)
+        for w in sentAr:
+            if i > 0:
+                pre = sentAr[i - 1].lower()
+            else:
+                pre = None
+            words.append(dict.add(w, i, pre))
             i += 1
         self.words = words
         dict.sentences.append(self)
 
+#============WORD CLASS============#
 class Word(object):
-    def __init__(self, string, position):
+    def __init__(self, string, position, pre = None):
         self.string = string
         self.data = [position]
-    
+        self.pre = [pre]
+
+#============DICTIONARY CLASS============#    
 class CustomDict(object):
     def __init__(self, name = "not given"):
         self.words = []
@@ -64,14 +74,15 @@ class CustomDict(object):
         if not found:
             return -1
         
-    def add(self, word, position):
+    def add(self, word, position, pre = None):
         result = self.find(word)
         if result == -1:
-            theWord = Word(word.lower(), position)
+            theWord = Word(word.lower(), position, pre)
             self.words.append(theWord)
             return theWord
         else:
             self.words[result].data.append(position)
+            self.words[result].pre.append(pre)
             return self.words[result]
         
     def addSent(self, sentence):
@@ -115,13 +126,15 @@ class CustomDict(object):
                         switched = False
                         break
                 print("\n")
-            if v == self.words:
-                switched = True
+                
+    def strip(self):
+        for w in self.words:
+            w.pre = [x for x in w.pre if x is not None]
                     
 #========Console interaction functions========#
 def manualSelect():
     while True:
-        print("Specify option to select ([f]ile, [c]lear:")
+        print("Specify option to select ([f]ile, [c]lear):")
         select = get()
         if select == 'f':
             print("Enter path:")
