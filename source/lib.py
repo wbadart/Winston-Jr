@@ -17,13 +17,12 @@ def load(file):
 #takes filename as input, returns list of strings
 def parseTxt(file):
     f = open(file, encoding="utf-8")
-    strOrig = f.read()
-    newlines = re.compile('\\n')
-    string = re.sub(newlines, " ", strOrig)
-    specs = re.compile('[^ \w\s\.\?!-]')
-    string = re.sub(specs, "", string)
-    pattern = re.compile('[A-Z]\w*[.,]?\s(?:(?!Mr|Ms|Dr|Jr|Sr|[.?!]).|Jr\.|Sr\.|Mr\.|Ms\.|Dr\.)*(?:(?!Mr|Ms|Dr|[.?!]).|Mr\.|Ms\.|Dr\.)*[\"!?:.]')
-    matches = re.findall(pattern, string)
+    string = f.read()
+    f.close()
+    patterns = [re.compile('\\n'), re.compile('[^ \w\s\.\?!-]'), re.compile('[A-Z]\w*[.,]?\s(?:(?!Mr|Ms|Dr|Jr|Sr|[.?!]).|Jr\.|Sr\.|Mr\.|Ms\.|Dr\.)*(?:(?!Mr|Ms|Dr|[.?!]).|Mr\.|Ms\.|Dr\.)*[\"!?:.]')]
+    string = re.sub(patterns[0], " ", strOrig)
+    string = re.sub(patterns[1], "", string)
+    matches = re.findall(patterns[2], string)
     sentences = []
     for m in matches:
         sentences.append(m)  
@@ -83,12 +82,6 @@ class CustomDict(object):
         for sent in sents:
             self.addSent(sent)
 
-    def listWords(self):
-        for w in self.words:
-            print("===========")
-            print(w.string)
-            print(w.data)
-
     def sort(self):
         switched = True
         while switched:
@@ -116,12 +109,14 @@ class CustomDict(object):
                             switched = False
                             break
                         elif n + 1 not in range(len(l1)):
-                            switched == False
+                            switched = False
                             break
                     else:
                         switched = False
                         break
                 print("\n")
+            if v == self.words:
+                switched = True
                     
 #========Console interaction functions========#
 def manualSelect():
