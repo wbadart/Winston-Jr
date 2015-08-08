@@ -133,7 +133,7 @@ while True:
             for e in errors:
                 print(str(e) + ": " + errors[e])
         elif numIn == 2:
-            if re.match('-l|log', usrAr[1]):
+            if re.match('-?l[og]?47', usrAr[1]):
                 for err in err_log:
                     print("Error " + str(err[0]) + " @ " + str(err[1]))
                     print(errors[err[0]])
